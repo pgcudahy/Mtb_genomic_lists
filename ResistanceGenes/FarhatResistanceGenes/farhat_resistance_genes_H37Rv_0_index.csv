@@ -1,0 +1,37 @@
+H37Rv Start,H37Rv End,Type,Gene After,Gene Before,Symbol,Description,H37Rv Tag
+5239,7267,gene,NA,NA,gyrB,DNA gyrase subunit B,Rv0005
+7301,9818,gene,NA,NA,gyrA,DNA gyrase subunit A,Rv0006
+409361,410801,gene,NA,NA,iniB,isoniazid inductible gene protein,Rv0341
+410837,412760,gene,NA,NA,iniA,isoniazid inductible gene protein,Rv0342
+412756,414238,gene,NA,NA,iniC,isoniazid inductible gene protein,Rv0343
+759806,763325,gene,NA,NA,rpoB,DNA-directed RNA polymerase beta chain,Rv0667
+763369,767320,gene,NA,NA,rpoC,DNA-directed RNA polymerase beta chain,Rv0668
+781559,781934,gene,NA,NA,rpsL,30S ribosomal protein S12,Rv0682
+1351190,1352147,gene,NA,NA,folP2,dihydropteroate synthase 2,Rv1207
+1674201,1675011,gene,NA,NA,inhA,NADH-dependent enoyl-[acyl-carrier-protein] reductase,Rv1484
+1833541,1834987,gene,NA,NA,rpsA,30S ribosomal protein S1,Rv1630
+1917939,1918746,gene,NA,NA,tlyA,cytotoxin|haemolysin,Rv1694
+2153888,2156111,gene,NA,NA,katG,catalase-peroxidase-peroxynitritase T,Rv1908c
+2288680,2289241,gene,NA,NA,pncA,pyrazinamidase/nicotinamidas,Rv2043c
+2518114,2519365,gene,NA,NA,kasA,3-oxoacyl-[acyl-carrier protein] synthase 1,Rv2245
+2726192,2726780,gene,NA,NA,ahpC,alkyl hydroperoxide reductase C protein,Rv2428
+2746134,2747598,gene,NA,NA,folC,folylpolyglutamate synthase protein,Rv2447c
+3067192,3067945,gene,NA,NA,thyX,thymidylate synthase,Rv2754c
+3073129,3073609,gene,NA,NA,dfrA,dihydrofolate reductase,Rv2763c
+3073679,3074471,gene,NA,NA,thyA,thymidylate synthase,Rv2764c
+3840193,3841420,gene,NA,NA,alr,alanine racemase,Rv3423c
+4049137,4049980,gene,NA,NA,folP1,dihydropteroate synthase 1 folp,Rv3608c
+4239862,4243147,gene,NA,NA,embC,membrane indolylacetylinositol arabinosyltransferase,Rv3793
+4243232,4246517,gene,NA,NA,embA,membrane indolylacetylinositol arabinosyltransferase,Rv3794
+4246513,4249810,gene,NA,NA,embB,membrane indolylacetylinositol arabinosyltransferase,Rv3795
+4268924,4269833,gene,NA,NA,ubiA,conserved membrane protein,Rv3806c
+4326003,4327473,gene,NA,NA,ethA,monooxygenase,Rv3854c
+4407527,4408202,gene,NA,NA,gid,glucose-inhibited division protein B,Rv3919c
+1673299,1673439,promoter,fabG1,Rv1482c,NA,promoter_fabG1-inhA,NA
+2713784,2714123,intergenic,eis,Rv2415c,NA,NA,NA
+2726087,2726192,promoter,ahpC,oxyR',NA,promoter_ahpC,NA
+2289241,2289281,promoter,Rv2044c,pncA,NA,promoter_pncA,NA
+4243147,4243232,promoter,embA,embC,NA,promoter_embA-embB,NA
+3067945,3068188,intergenic,hsdS.1,thyX,NA,NA,NA
+2715332,2715471,promoter,Rv2417c,eis,NA,promoter_eis,NA
+1471845,1473382,rRNA,rrl,mcr3,NA,ribosomal_RNA_16S,NA
