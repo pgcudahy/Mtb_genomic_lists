@@ -1,6 +1,6 @@
 # Lists from multiple sources for use in Mtb genomics
 
-## The lists include lists of genes to mask from variant coverage due to poor short read coverage (eg PE/PPE), genes associated with drug resistance, and gene annotations
+## Includes lists of genes to mask from variant coverage due to poor short read coverage (eg PE/PPE), genes associated with drug resistance, and gene annotations
 
 ### Most folders contain 
 
